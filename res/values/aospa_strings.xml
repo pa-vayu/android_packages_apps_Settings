@@ -242,4 +242,8 @@
     <string name="gesture_power_button_category_title">Power button</string>
     <string name="gesture_volume_buttons_category_title">Volume buttons</string>
 
+    <!-- Notch: Full screen apps -->
+    <string name="display_cutout_force_fullscreen_title">Full screen apps</string>
+    <string name="display_cutout_force_fullscreen_summary">Force apps to ignore notch space</string>
+
 </resources>
