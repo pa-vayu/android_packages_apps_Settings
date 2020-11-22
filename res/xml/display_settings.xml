@@ -176,6 +176,14 @@
             android:summary="@string/display_white_balance_summary"
             settings:controller="com.android.settings.display.DisplayWhiteBalancePreferenceController"/>
 
+	<!-- Min/max/preferred refresh rate -->
+        <Preference
+            android:key="refresh_rate"
+            android:title="@string/refresh_rate_title"
+            android:summary="@string/summary_placeholder"
+            android:fragment="com.android.settings.display.RefreshRateSettingsFragment"
+            settings:controller="com.android.settings.display.RefreshRatePreferenceController" />
+
         <SwitchPreference
             android:key="touch_polling"
             android:title="@string/touch_polling_title"
