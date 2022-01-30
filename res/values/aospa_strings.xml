@@ -149,4 +149,7 @@
     <string name="quick_settings_quick_pull_down_title">Quick QS pulldown</string>
     <string name="quick_settings_quick_pull_down_summary">Pull down statusbar from right side to expand quick settings</string>
 
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
+
 </resources>
